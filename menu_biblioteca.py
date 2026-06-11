@@ -1,6 +1,3 @@
-# Programa: Sistema de Préstamos - Biblioteca Central
-# Objetivo: Gestionar préstamos y devoluciones de libros mediante un menú de opciones.
-
 def mostrar_menu():
     print("\n=== MENÚ PRINCIPAL ===")
     print("1. Libros disponibles")
